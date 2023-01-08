@@ -1,3 +1,6 @@
+#データを操作するためのファイル
+#作成・読み取り・更新・削除
+
 from sqlalchemy.orm import Session
 
 from . import models
